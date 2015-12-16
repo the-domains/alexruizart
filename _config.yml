@@ -1,7 +1,7 @@
 name: alexruizart
 favicon: null
-layout_spectrum: 0.02423904277384281
-typography_spectrum: 0.026083675678819418
+layout_spectrum: 0.23069
+typography_spectrum: 0.6957
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.516735072247684
-  lightness: 0.0982163199223578
-  saturation: 0.6543891273904592
-  rhythmicContrast: 0.6671222622971982
+    - '#0a0d14'
+    - '#4f5f5f'
+    - '#303a3c'
+    - '#9ca69b'
+    - '#c7c9bb'
+  brandStrength: 0.5
+  lightness: 0.4375
+  saturation: 0.6875
+  rhythmicContrast: 1
 purpose: []
